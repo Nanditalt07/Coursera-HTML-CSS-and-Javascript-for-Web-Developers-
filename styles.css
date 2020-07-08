@@ -1,0 +1,57 @@
+  #header-nav {
+    background-color: 	#A9A9A9;
+    border-radius: 0;
+    border: 0;
+    height:75px;
+  }
+
+  h1{
+      color: black;
+      margin-top: 0;
+      font-size: 1.75em;
+      margin-left: 50px;
+      font-weight: bold;
+      padding-top: 5px;
+  }
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 2px solid black;
+  }
+
+  .navbar-header button.navbar-toggle{
+      height: 50px;
+      margin-top: 16px;
+  }
+
+   h2{
+       font-weight: bold;
+       font-size: 3em;
+   }
+
+   #Chicken, #Beef, #Sushi {
+        margin: 50px;
+        border: black;
+        background-color: #A9A9A9;
+   }
+
+   #Chicken p, #Beef p, #Sushi p {
+       margin: 10px;
+       font-size: 1.2em;
+       padding-bottom: 5px;
+   }
+
+   h3{
+       padding-top: 10px;
+       font-weight: bold;
+   }
+
+   #nav-list, #nav-list a{
+       border: 1px solid black;
+       background-color: white;
+   }
+
+   #nav-list a{
+       color: black;
+       font-size: 1.5em;
+   }
+
