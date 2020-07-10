@@ -1,4 +1,4 @@
-#header-nav {
+ #header-nav {
     background-color: 	#A9A9A9;
     border-radius: 0;
     border: 0;
@@ -10,7 +10,6 @@
       font-size: 1.75em;
       margin-left: 50px;
       font-weight: bold;
-      padding-top: 5px;
   }
   
   .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
